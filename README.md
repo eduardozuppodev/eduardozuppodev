@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#### Prazer, Sou o Edu! Um cara que ama tecnologia  👨‍💻
+
+-   🎓Cursando Análise e Desenvolvimento de Sistema na  [Faculdade Impacta](https://www.impacta.edu.br/)
+-   🔍 Atualmente aberto a novas oportunidades.
+-   💻Experiencia: Python, Scrum, Html, Css, Flask e Javascript
+-   📚Estou aprendendo: VueJs, Nodejs e TypeScript
+-   🎯Tenho interesse: ReactJs e Java
+-   📡 Neste momento busco colaborar com projetos Back-end.
+
+
+O aprendizado é continuo e o próximo nível nunca será o último  🚀
 <!--
 **eduardozuppodev/eduardozuppodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
