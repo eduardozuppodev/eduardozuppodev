@@ -1,6 +1,6 @@
-###  👋
+###  Fala Devs!👋
 
-#### Prazer, Sou o Edu! Um cara que ama tecnologia  👨‍💻
+#### Prazer, Sou o Edu! Um apaixonado por tecnologia  👨‍💻
 
 -   🎓Cursando Análise e Desenvolvimento de Sistema na  [Faculdade Impacta](https://www.impacta.edu.br/)
 -   🔍 Atualmente aberto a novas oportunidades.
