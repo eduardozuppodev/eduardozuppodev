@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋
 
 #### Prazer, Sou o Edu! Um cara que ama tecnologia  👨‍💻
 
