@@ -1,3 +1,8 @@
+## 👨 Eduardo Zuppo
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardozuppodev)](https://github.com/eduardozuppodev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-zuppo-8878731a3/)](https://www.linkedin.com/in/eduardo-zuppo-8878731a3/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zuppo.edu@gmail.com)](mailto:zuppo.edu@gmail.com)
+
 ###  Fala Devs! Tudo Certo?👋
 
 #### Prazer, Sou o Edu! Um apaixonado por tecnologia  👨‍💻
